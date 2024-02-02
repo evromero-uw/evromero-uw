@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @evromero-uw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- PhD Student in the Department of Genome Sciences at the University of Washington.
+- Studying intra-host HIV evolution.
 - 📫 evromero@uw.edu
 
 <!---
